@@ -1,4 +1,4 @@
-# AlgorithmAndDatastructure
+# Algorithm and Datastructure
 
 Summary of all my contributions in the algorithm and datastructure module.
 
