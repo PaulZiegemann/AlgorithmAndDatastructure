@@ -2,7 +2,7 @@
 
 Summary of all my contributions in the algorithm and datastructure module.
 
-Topics
+Topics/n
 1.Arrays and subarrays
 2.Stack, queue and list
 3.Sortalgorithms and time complexity analysis
